@@ -1,0 +1,119 @@
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+*,*:before,*:after{
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+nav,footer,header,aside{display: block;}
+html,body{
+	height: 100%;
+	width: 100%;
+	font-size: 100%;
+	line-height: 1;
+	font-size: 14px;
+	-ms-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+input,button,textarea{font-family:inherit;}
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+button::-moz-focus-inner {padding:0;border:0;}
+a, a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li{list-style: none;}
+img{vertical-align: top;}
+h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
+
+body {
+	background-color: #272e75;
+}
+.content {
+	margin: 196.5px 300px 0px 540px;
+	width: 800px;
+	padding: 0px 21px 0px 21px;
+	border: 15px solid #d4e7a1;
+	min-height: 2800px;
+	background-color:#eee6a9;
+
+}
+
+.header {
+	font-weight: 650;
+	padding: 30px 0px 30px 0px;
+	background: #eee6a9;
+}
+h1 {
+	margin: 0px 0px 0px 0px;
+	background: #eee6a9;
+	font-size: 30px;
+}
+.text {
+	font-weight: 400;
+	font-size: 23px;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;	
+}
+.crow {
+height: 500px;
+border: 7px solid #a7a8b9;
+margin:50px 5px 5px 150px;
+}
+
+h2 {
+	font-size: 30px;
+	text-align: center;
+	margin: 40px 0px 15px 0px;
+}
+.text1 {
+	font-size: 20px;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	padding: 30px 21px 15px 21px;
+}
+.speaktext {
+	padding: 0px 21px 0px 21px;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-style: italic;
+	font-size: 20px;
+}
+.crowlang1 {
+	padding: 0px 0px 15px 0px;
+}
+
+.titleeticet {
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 25px;
+	text-transform: uppercase;
+	font-style: normal;
+	text-align: center;
+	padding: 20px 0px 20px 0px;
+}
+
+.persar {
+ font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 25px;
+	text-transform: uppercase;
+	font-style: normal;
+	text-align: center;
+	padding: 20px 0px 20px 0px;
+}
+}
+
+.txtcarcar {
+
+}
+.individ {
+	text-decoration: underline;
+}
+.imagecrow2 {
+	height:500px ;
+	width: 700px ;
+	border: 3px dotted #fadd73;
+	margin: 70px 2px 20px 20px;
+	box-shadow: 5px 15px 20px #fadd73;
+}
